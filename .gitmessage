@@ -1,0 +1,14 @@
+# ─── CONVENTIONAL COMMIT TEMPLATE ───
+# type(scope): short description in lowercase, imperative mood (max 50 chars)
+#
+# Allowed types:  feat | fix | docs | refactor | chore | test | ci
+# Allowed scopes: backend | frontend | lukko | shared | vintti | henki | aihe | keruu
+# ────────────────────────────────────
+
+# Why is this change necessary? What does it address?
+
+# Provide a detailed technical summary of the changes.
+# - Break changes down into bullet points.
+# - Note any changes to database schemas or Web Worker memory management.
+
+# References: Link to issue tracking numbers if applicable (e.g., #12)
